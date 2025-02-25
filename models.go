@@ -1,5 +1,5 @@
 package main
 
 type TimeResponse struct {
-  Time string json:"time"
+	Time string `json:"time"`
 }
