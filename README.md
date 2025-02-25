@@ -1,8 +1,1 @@
-# This is a project of team "Object 261".
-
-### This project was created by 
-
-Andrii Solomka, 
-Halai Dmytro, 
-Tkachenko Zenoviia,
-Yuriev Illia
+That is realization of first laboratory work, made by team "Object 261".
